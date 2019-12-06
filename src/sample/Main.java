@@ -56,7 +56,7 @@ public class Main extends Application {
         borderPane.setBottom(hBox);
 
         Scene scene = new Scene(borderPane, 200, 230);
-        primaryStage.setTitle("Hello World");
+        primaryStage.setTitle("Lab 8 Ex 4");
         primaryStage.setScene(scene);
         primaryStage.show();
 
